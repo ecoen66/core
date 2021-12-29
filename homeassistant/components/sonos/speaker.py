@@ -965,7 +965,7 @@ class SonosSpeaker:
         self.volume = self.soco.volume
         self.muted = self.soco.mute
         self.night_mode = self.soco.night_mode
-        self.dialog_level = self.soco.dialog_mode
+        self.dialog_level = self.soco.dialog_level
         self.bass = self.soco.bass
         self.treble = self.soco.treble
 
